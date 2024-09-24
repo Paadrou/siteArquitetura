@@ -6,6 +6,8 @@
 --blood-red: #601700ff; */
 /* https://coolors.co/00a676-f7f9f9-e0d0c1-a76d60-601700 */
 
+
+
 h1, h2, h3 {color: #601700ff }
 body {
 background-color: #f7f9f9ff ;
@@ -16,5 +18,8 @@ img{
     width: 300px; 
     border-radius: 15px;
     
+}
+.icone{
+    width: 24px;
 }
 
